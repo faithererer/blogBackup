@@ -3,5 +3,12 @@ bottom:
       id_name: user-map
       name: 访客地图
       icon: fas fa-heartbeat
-      order:
+      order: 2
       html: '<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=9SaJpugZvosMsIo_KU5meOFpD8aC7X9U10yBRfHenro"></script>'
+
+    - class_name: pixiv-Day
+      id_name: pixiv-Day
+      name: Pixiv日榜
+      icon: fa-solid fa-p
+      order: 1
+      html: '<iframe src="https://fun.hujingnb.com/pixiv/i?w=300&&type=daily&&rand=1&&c_type=p_detail" frameborder="0"  style="width:240px; height:380px;" ></iframe>'
