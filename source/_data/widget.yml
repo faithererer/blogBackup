@@ -1,14 +1,42 @@
 bottom:
-    - class_name: user-map
-      id_name: user-map
-      name: 访客地图
-      icon: fas fa-heartbeat
-      order: 2
-      html: '<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=9SaJpugZvosMsIo_KU5meOFpD8aC7X9U10yBRfHenro"></script>'
+    # - class_name: user-map
+    #   id_name: user-map
+    #   name: 访客地图
+    #   icon: fas fa-heartbeat
+    #   order: 2
+    #   html: '<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=9SaJpugZvosMsIo_KU5meOFpD8aC7X9U10yBRfHenro"></script>'
 
-    - class_name: pixiv-Day
+    - class_name: pixiv-Day  # 详情见：https://hujingnb.com/archives/666
       id_name: pixiv-Day
       name: Pixiv日榜
       icon: fa-solid fa-p
       order: 1
       html: '<iframe src="https://fun.hujingnb.com/pixiv/i?w=300&&type=daily&&rand=1&&c_type=p_detail" frameborder="0"  style="width:240px; height:380px;" ></iframe>'
+      
+    # - class_name: 
+    #   id_name: 
+    #   name: 
+    #   icon: 
+    #   order: 
+    #   html:
+
+    #       - class_name: 
+    #   id_name: 
+    #   name: 
+    #   icon: 
+    #   order: 
+    #   html:
+
+    #       - class_name: 
+    #   id_name: 
+    #   name: 
+    #   icon: 
+    #   order: 
+    #   html:
+
+    #       - class_name: 
+    #   id_name: 
+    #   name: 
+    #   icon: 
+    #   order: 
+    #   html:
