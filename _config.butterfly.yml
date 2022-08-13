@@ -10,10 +10,11 @@ menu:
     归档: /archives/ || fa fa-folder-open
   生活 || fas fa-list:
     图库: /gallery/ || fa fa-camera-retro
-    音乐: /music/ || fa fa-music 
+    音乐: /music/ || fa fa-music
     影视: /movies/ || fas fa-video
     番剧: /bangumis/ || fa-brands fa-bilibili
   友链: /link/ || fa fa-link
+  仓库: /storehouse/ || fas fa-home
   # 留言板: /comment/ || fa fa-paper-plane
   留言板: /messageboard/ || fa fa-paper-plane
   关于笔者: /about/ || fas fa-heart   
